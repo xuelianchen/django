@@ -1,4 +1,5 @@
 pip==20.2.1
+appdirs==1.4.4
 asgiref==3.2.10
 certifi==2020.6.20
 cffi==1.14.1
@@ -6,15 +7,22 @@ chardet==3.0.4
 click==7.1.2
 cryptography==3.0
 defusedxml==0.6.0
+distlib==0.3.1
+dj-database-url==0.5.0
 Django==3.1
+django-heroku==0.3.1
+filelock==3.0.12
 Flask==1.1.2
 idna==2.10
 itsdangerous==1.1.0
 Jinja2==2.11.2
 jira==2.0.0
 MarkupSafe==1.1.1
+mysqlclient==2.0.1
 oauthlib==3.1.0
 pbr==5.4.5
+pipenv==2020.6.2
+psycopg2==2.8.5
 pycparser==2.20
 PyJWT==1.7.1
 PyMySQL==0.10.0
@@ -27,4 +35,7 @@ sqlparse==0.3.1
 style==1.1.0
 update==0.0.1
 urllib3==1.25.10
+virtualenv==20.0.30
+virtualenv-clone==0.5.4
 Werkzeug==1.0.1
+whitenoise==5.2.0
