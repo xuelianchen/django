@@ -28,4 +28,3 @@ style==1.1.0
 update==0.0.1
 urllib3==1.25.10
 Werkzeug==1.0.1
-sqlite3==3.28.0
